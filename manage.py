@@ -1,3 +1,4 @@
+#!../bin/python
 import argparse
 from api import db
 
